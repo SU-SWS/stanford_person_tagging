@@ -1,20 +1,12 @@
 {
-  "name": "su-sws/stanford_module_example",
-  "description": "Stanford Module Example",
-  "type": "drupal-custom-module",
-  "homepage": "https://github.com/SU-SWS/stanford_module_example",
+  "name": "su-sws/stanford_person_tagging",
+  "description": "Tag Stanford Person nodes based on workgroups.",
+  "type": "stanford-module",
+  "homepage": "https://github.com/SU-SWS/stanford_person_tagging",
   "authors": [],
-  "license": "GPL-2.0-or-later",
+  "license": "GPL-3.0+",
   "minimum-stability": "dev",
-  "prefer-stable": true,
-  "repositories": [
-    {
-      "type": "composer",
-      "url": "https://packages.drupal.org/8"
-    }
-  ],
-  "require": {},
-  "config": {
-     "sort-packages": true
+  "require": {
+      "composer/installers": "~1.0"
   }
 }

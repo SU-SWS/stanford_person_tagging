@@ -1,4 +1,4 @@
-# [Stanford Module Example](https://github.com/SU-SWS/stanford_module_example)
+# [Stanford Person Tagging](https://github.com/SU-SWS/stanford_person_tagging)
 ##### Version: 8.x-2.x
 
 Maintainers: [Mike Decker](https://github.com/pookmish), [sherakama](https://github.com/sherakama)  
@@ -8,9 +8,8 @@ Changelog: [Changelog.txt](CHANGELOG.txt)
 Description
 ---
 
-The Stanford Module Example module is used to do some things. Please put a
-description of what this module does so that a new developer can get a quick
-understanding about what this module does.
+The Stanford Person Tagging module is used to tag Stanford Person content
+with taxonomy terms based on Stanford workgroup membership.
 
 Accessibility
 ---

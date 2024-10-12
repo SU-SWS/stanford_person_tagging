@@ -1,7 +1,7 @@
-# Stanford Module Example
+# Stanford Person Tagging
 
 8.x-1.0
 --------------------------------------------------------------------------------  
-_Release Date: YYYY-MM-DD_
+_Release Date: 2024-10-11_
 
 - Initial Release
