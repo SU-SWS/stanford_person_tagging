@@ -1,7 +1,7 @@
 # [Stanford Person Tagging](https://github.com/SU-SWS/stanford_person_tagging)
-##### Version: 8.x-2.x
+##### Version: 8.x-1.x
 
-Maintainers: [Mike Decker](https://github.com/pookmish), [sherakama](https://github.com/sherakama)  
+Maintainers: [Kassie Sharp](https://github.com/ksharp-drupal)  
 
 Changelog: [Changelog.txt](CHANGELOG.txt)
 
