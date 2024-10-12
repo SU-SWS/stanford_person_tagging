@@ -1,7 +1,7 @@
 {
   "name": "su-sws/stanford_person_tagging",
   "description": "Tag Stanford Person nodes based on workgroups.",
-  "type": "stanford-module",
+  "type": "drupal-custom-module",
   "homepage": "https://github.com/SU-SWS/stanford_person_tagging",
   "authors": [],
   "license": "GPL-3.0+",
