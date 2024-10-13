@@ -1,7 +1,0 @@
-name: 'Stanford Person Tagging'
-type: module
-description: 'Tag imported Person content from workgroups.'
-core_version_requirement: ^10 || ^11
-package: Custom
-version: 8.x-1.x-dev
-
